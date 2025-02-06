@@ -37,7 +37,7 @@ Você pode acessar este portfólio online via **GitHub Pages** (se ativado):
 
 ## 📬 Contato
 Se quiser entrar em contato ou conhecer mais sobre meu trabalho:
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/felipe-simões-da-cruz-b68069238/)
 - ✉️ Email: cruzfe35@gmail.com 
 
 ---
