@@ -38,7 +38,7 @@ Você pode acessar este portfólio online via **GitHub Pages** (se ativado):
 ## 📬 Contato
 Se quiser entrar em contato ou conhecer mais sobre meu trabalho:
 - 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- ✉️ Email: seuemail@email.com
+- ✉️ Email: cruzfe35@gmail.com 
 
 ---
 *Obrigado por visitar meu portfólio! Fique à vontade para explorar e me dar feedbacks.* 🚀
